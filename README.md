@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Jose Luis! </h2>
+<h2> 光 (Namaste)🙏🏻, I'm Jose Luis! </h2>
 <p><em>Software Engineer at <a href="#">Kore Tecnologia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
